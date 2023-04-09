@@ -19,6 +19,6 @@ document.getElementById('submit').addEventListener('click', () => {
     //Resets the form to be blank/have the original selcetion
     document.getElementById('new-first-name').value = '';
     document.getElementById('new-last-name').value = '';
-    document.getElementById('new-first-name').value = 'Pronouns';
+    document.getElementById('new-pronoun').value = 'Pronouns';
 });
 
